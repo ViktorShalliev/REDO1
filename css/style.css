@@ -1,0 +1,23 @@
+@charset "utf-8";
+body {
+	background-color: #328A3A;
+}
+.jumbotron {
+	background-color: #D22225;
+	color: aliceblue;
+}
+h1 {
+	color: aliceblue;
+}
+.btn-lg {
+	background-color: #328A3A;
+}
+.bg-red {
+	background-color:#D22225;
+}
+.bg-blue {
+	background-color: #FFFFFF;
+}
+a {
+	color:#328A3A;
+}
